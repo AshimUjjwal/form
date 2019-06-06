@@ -1,0 +1,73 @@
+body
+{
+	padding:0;
+	margin:0;
+	background-color:silver;
+	
+}
+
+#menu
+{
+	width:990px;
+	margin:0px auto;
+	text-align:center;
+	border-bottom:1px solid orange;
+}
+#menu a
+{
+	text-decoration:none;
+	display:inline-block;
+	color:grey;
+	padding:14px;
+	background-color:violet;
+}
+#menu a:hover
+{
+	color:black;
+	background-color:silver;
+}
+
+#error
+{
+   width:990px;
+   margin:0px auto;	
+   height:40px;
+   background-color:violet;
+   margin-top:20px;
+   padding-left:10px;
+   padding-top:10px;
+   color:black;
+   font-weight:bold;
+   font-size: 14px;
+   border:1px solid red;
+   
+   border-radius:5px;
+}
+
+	
+
+
+
+#wrapper
+{
+   width:1000px;
+   margin:0px auto;
+   min-height:400px;
+   background-color:violet;
+   
+   margin-bottom: 60px;
+   border:1px solid red;
+   border-bottom:3px solid black;
+   border-radius:5px;
+   
+}
+	
+#formDiv
+{
+   width:300px;
+   margin:0px auto;
+   margin-top:35px;
+   margin-bottom:20px;
+
+}
+
